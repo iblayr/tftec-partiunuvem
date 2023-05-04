@@ -28,14 +28,3 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-
   C:\inetpub\wwwroot\partiunuvem 
   
 ```
-5 - Para os demais passos da configuração você deve acompanhar a Aula 02.
-
-
-## Para todas as instruções referentes a como montar este ambiente, acompanhe as aulas do evento.
-
-Aula01 - https://www.youtube.com/watch?v=MWdrCNYmDGw
-
-Aula02 - https://www.youtube.com/watch?v=o0tqdyFVtGI
-
-Aula03 - https://www.youtube.com/watch?v=GXe13QbW8wk
-
