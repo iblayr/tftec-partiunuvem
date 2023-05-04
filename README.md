@@ -6,7 +6,7 @@ Aplicação TFTEC Cloud sendo executada em .Net Core e conectada a um banco SQL 
 ![TFTEC Cloud](https://github.com/raphasi/partiunuvem/blob/master/EstruturaApp_IaaS.png "Semana Partikunuvem")
 
 
-## Passos para realizar o deploy da sua aplicação:
+## Passos para realizar o deploy da aplicação:
 1 - Download ASP.Net Core 7
 
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-7.0.5-windows-hosting-bundle-installer
