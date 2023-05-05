@@ -36,7 +36,7 @@ Modernizando a estrutura de aplicação e banco de dados utilizando serviços Cl
 ![TFTEC Cloud](https://github.com/iblayr/tftec-partiunuvem/blob/main/EstruturaApp_PaaS.png "Semana Partiunuvem")
 
 ## Etapa de Modernização do Banco de dados
-1 - Donwload e instalação do Net .Framework 4.8 na VM-DB:
+1 - Download e instalação do Net .Framework 4.8 na VM-DB:
 
 https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-offline-installer
 
@@ -57,7 +57,7 @@ https://www.microsoft.com/en-us/download/confirmation.aspx?id=53595
 - Desligar a VM-DB
 
 ## Etapa de Modernização da Aplicação
-1 - Donwload e instalação do App Service migration assistant na VM-APP:
+1 - Download e instalação do App Service migration assistant na VM-APP:
 
 https://azure.microsoft.com/en-au/products/app-service/migration-tools/
 
