@@ -1,0 +1,69 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualNetworks_vnet_hub_name": {
+            "value": null
+        },
+        "virtualMachines_vm_backend_name": {
+            "value": null
+        },
+        "virtualMachines_vm_database_name": {
+            "value": null
+        },
+        "virtualMachines_vm_frontend_name": {
+            "value": null
+        },
+        "loadBalancers_lb_backend_01_name": {
+            "value": null
+        },
+        "loadBalancers_lb_backend_02_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet_spoke01_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet_spoke02_name": {
+            "value": null
+        },
+        "networkSecurityGroups_nsg_hub_name": {
+            "value": null
+        },
+        "virtualMachines_vm_integration_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_backend325_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm_backend_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_database319_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_frontend636_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm_database_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm_frontend_ip_name": {
+            "value": null
+        },
+        "networkSecurityGroups_nsg_spoke01_name": {
+            "value": null
+        },
+        "networkSecurityGroups_nsg_spoke02_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_integration121_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm_integration_ip_name": {
+            "value": null
+        },
+        "sqlVirtualMachines_vm_database_name": {
+            "value": null
+        }
+    }
+}
